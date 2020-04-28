@@ -1,4 +1,4 @@
 opencv-contrib-python
 scikit-image
 matplotlib
-jupyter
+jupyterjup
